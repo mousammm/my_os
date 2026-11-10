@@ -1,8 +1,17 @@
 # my_os
-It's time, i need to create an Operating-System.
+This is a pet project, for learning about assembly and how an os works
 
-# Links
+# required
+**System**
+- i'm using linux on x86_64 machine.
+
+**Tools**
+- [FASM.tgz](https://flatassembler.net/fasm-1.73.35.tgz)
+
+# links
 **OS**
+- [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [linux-kernel-labs](https://linux-kernel-labs.github.io/refs/heads/master/so2/index.html)
 - [creating an os](https://wiki.osdev.org/Creating_an_Operating_System)
 - [os tut-patel](https://viralpatel.net/taj/operating-system-tutorial.php)
 
